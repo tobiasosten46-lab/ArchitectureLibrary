@@ -28,4 +28,6 @@
 
 **Copyright © 2026 Tobias Østen. All rights reserved.**
 
+**kontakt@pcnorge.no**
+
 </div>
